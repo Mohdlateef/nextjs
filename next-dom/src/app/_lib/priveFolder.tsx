@@ -1,0 +1,1 @@
+export const arr = ["mango", "orange", "apple", "pineApple"];
